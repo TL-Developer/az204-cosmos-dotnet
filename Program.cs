@@ -2,7 +2,7 @@
 
 public class Program
 {
-  private static readonly string EndpointUri = "https://restfull-app-db.documents.azure.com:443/";
+  private static readonly string EndpointUri = "https://<db-name>.documents.azure.com:443/";
   private static readonly string PrimaryKey = "<key>";
 
   private CosmosClient cosmosClient;
