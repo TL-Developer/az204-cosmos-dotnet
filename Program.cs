@@ -3,7 +3,7 @@
 public class Program
 {
   private static readonly string EndpointUri = "https://restfull-app-db.documents.azure.com:443/";
-  private static readonly string PrimaryKey = "xkv0568MoCB0Zbaq0EgMep0EtSd5DlWACFSheVasHNEHmYHjKawWEG70P4giBABWXm5p1xIOgw0UACDbQh8YGg==";
+  private static readonly string PrimaryKey = "<key>";
 
   private CosmosClient cosmosClient;
   private Database database;
