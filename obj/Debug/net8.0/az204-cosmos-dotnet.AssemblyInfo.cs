@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("az204-cosmos-dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b65dc226b3b58f9171a6063f9990ecb85909523")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee89cc150ed3adfa5c352925f1feddc0cd1f1b5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("az204-cosmos-dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("az204-cosmos-dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
